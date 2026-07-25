@@ -1,0 +1,21 @@
+data,id_venda,status,valor,forma_pagamento
+2026-01-03,V001,Efetuada,4599.90,Cartão de Crédito
+2026-01-05,V002,Cancelada,269.70,Pix
+2026-01-08,V003,Efetuada,1798.00,Cartão de Débito
+2026-01-10,V004,Desistência,349.50,Pix
+2026-01-12,V005,Efetuada,1299.00,Boleto
+2026-01-15,V006,Efetuada,799.60,Cartão de Crédito
+2026-01-18,V007,Cancelada,918.00,Pix
+2026-01-22,V008,Efetuada,459.80,Cartão de Crédito
+2026-01-25,V009,Desistência,749.00,Boleto
+2026-01-29,V010,Efetuada,399.50,Pix
+2026-02-02,V011,Efetuada,2199.00,Cartão de Crédito
+2026-02-04,V012,Cancelada,359.40,Pix
+2026-02-07,V013,Efetuada,479.70,Cartão de Débito
+2026-02-10,V014,Efetuada,1399.00,Boleto
+2026-02-13,V015,Desistência,899.90,Cartão de Crédito
+2026-02-16,V016,Efetuada,698.00,Pix
+2026-02-19,V017,Cancelada,798.00,Cartão de Crédito
+2026-02-21,V018,Efetuada,319.60,Pix
+2026-02-24,V019,Efetuada,689.70,Cartão de Débito
+2026-02-27,V020,Desistência,399.00,Pix
