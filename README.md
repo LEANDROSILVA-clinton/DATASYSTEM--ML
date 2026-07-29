@@ -1,18 +1,23 @@
 # DATASYSTEM--ML
-Um projeto de dados com o foco principal em analise, treinamento supervisionado (fine-tuning) para a interpretação de dados envolvendo vendas.
+O DATASYSTEM-ML é uma solução baseada em Machine Learning voltada para análise preditiva e detecção de anomalias em dados corporativos. O projeto emprega técnicas de aprendizado supervisionado — com foco em modelos de Regressão — para identificar desvios nos padrões de vendas e antecipar métricas cruciais de negócio, como taxas de cancelamento e desistência de compras.
 
 # FUNCIONAMENTO
-Temos a tecnologia de Machine Learning especialista para treinar com dados corporativos ,de vendas,desistencias e cancelamentos de compra.
+O sistema processa e interpreta históricos financeiros e operacionais para monitorar oscilações mês a mês em relação a linhas de base operacionais (como um teto anual de referência de desistências).
 
-UM AVISO!
-Algo opcional:
-Implementei uma tecnologia de gerenciamento de memória em cython , stack especificamente mas apenas com o objetivo de não ocupar tanta memória do meu computador(DELL INSPIRION, INTEL CORE I5 COM 8GBDE RAM) e não desperdiçar cache e RAM.
-Essa implementação não tem impacto direto ao projeto,algo opicional ,pode ou não usar ,fique a vontade!
+Através da modelagem por Regressão, o projeto permite:
 
-Exemplo de uso:
-O Machine Learning obteve os dados da empresa X e com isso a empresa tem mais desistencias e cancelamentos do que efetuadas , o ML faz sugestões de melhoria de atendimento ,estoque(queima de estoque), novas tecnologias ,visto que, o cliente se importa bastante com o ambiente ,a estrutura da empresa.
+1.Predição Contínua: Mapear tendências de vendas, desistências e cancelamentos com base no histórico de dados.
+2. Detecção de Anomalias:Identificar comportamentos discrepantes ou desvios fora da margem esperada de um período para o outro.
+
+
 
 # Tecnologias usadas
-Cython (GERENCIAMENTO DE MEMORIA)
-Python (MACHINE LEARNING) - sckit-learn
-Design Pattern - Strategy(código)
+Python (Linguagem base para manipulação e estruturação do projeto)
+Scikit-Learn (Construção, treinamento e validação dos modelos de Machine Learning)
+Aprendizado Supervisionado(Técnicas de modelagem orientadas a dados rotulados)
+Modelos de Regressão(Algoritmos focados em previsão quantitativa contínua) - SVR
+
+
+# Links e referências úteis para documentação:
+https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.LocalOutlierFactor.html#sklearn.neighbors.LocalOutlierFactor
+https://scikit-learn.org/stable/modules/svm.html#regression
