@@ -6,14 +6,13 @@ Temos a tecnologia de Machine Learning especialista para treinar com dados corpo
 
 UM AVISO!
 Algo opcional:
-Implementei uma tecnologia de gerenciamento de memória em c++ , stack especificamente mas apenas com o objetivo de não ocupar tanta memória do meu computador(DELL INSPIRION, INTEL CORE I5 COM 8GBDE RAM) e não desperdiçar cache e RAM.
+Implementei uma tecnologia de gerenciamento de memória em cython , stack especificamente mas apenas com o objetivo de não ocupar tanta memória do meu computador(DELL INSPIRION, INTEL CORE I5 COM 8GBDE RAM) e não desperdiçar cache e RAM.
 Essa implementação não tem impacto direto ao projeto,algo opicional ,pode ou não usar ,fique a vontade!
 
 Exemplo de uso:
 O Machine Learning obteve os dados da empresa X e com isso a empresa tem mais desistencias e cancelamentos do que efetuadas , o ML faz sugestões de melhoria de atendimento ,estoque(queima de estoque), novas tecnologias ,visto que, o cliente se importa bastante com o ambiente ,a estrutura da empresa.
 
 # Tecnologias usadas
-C++ (GERENCIAMENTO DE MEMORIA)
-Python (MACHINE LEARNING)
+Cython (GERENCIAMENTO DE MEMORIA)
+Python (MACHINE LEARNING) - sckit-learn
 Design Pattern - Strategy(código)
-Validação de Interface , Autenticação
