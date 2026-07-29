@@ -1,5 +1,5 @@
 # DATASYSTEM--ML
-O DATASYSTEM-ML é uma solução baseada em Machine Learning voltada para análise preditiva e detecção de anomalias em dados corporativos. O projeto emprega técnicas de aprendizado supervisionado — com foco em modelos de Regressão — para identificar desvios nos padrões de vendas e antecipar métricas cruciais de negócio, como taxas de cancelamento e desistência de compras.
+O DATASYSTEM-ML é uma solução baseada em Machine Learning voltada para análise preditiva e detecção de anomalias em dados corporativos. O projeto emprega técnicas de aprendizado supervisionado com foco em modelos de Regressão para identificar desvios nos padrões de vendas e antecipar métricas cruciais de negócio, como taxas de cancelamento e desistência de compras.
 
 # FUNCIONAMENTO
 O sistema processa e interpreta históricos financeiros e operacionais para monitorar oscilações mês a mês em relação a linhas de base operacionais (como um teto anual de referência de desistências).
@@ -26,7 +26,7 @@ https://scikit-learn.org/stable/modules/svm.html#regression
 #TRANSLATE BELOW
 
 # DATASYSTEM--ML
-DATASYSTEM-ML is a Machine Learning-based solution designed for predictive analysis and anomaly detection in corporate data. The project employs supervised learning techniques—focusing on regression models—to identify deviations in sales patterns and forecast critical business metrics, such as cancellation and purchase abandonment rates.
+DATASYSTEM-ML is a Machine Learning-based solution designed for predictive analysis and anomaly detection in corporate data. The project employs supervised learning techniques focusing on regression models to identify deviations in sales patterns and forecast critical business metrics, such as cancellation and purchase abandonment rates.
 
 # HOW IT WORKS
 The system processes and interprets historical financial and operational data to monitor month-over-month fluctuations against operational baselines (such as an annual reference ceiling for abandonments).
